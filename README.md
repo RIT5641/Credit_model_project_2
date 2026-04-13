@@ -1,7 +1,7 @@
-# Modelo de Riesgo Crediticio — LendingClub (Tarjetas de Crédito)
+# Modelo de Riesgo Crediticio. LendingClub (Tarjetas de Crédito)
 
 **Asignatura:** Modelos de Crédito  
-**Institución:** ITESO — Instituto Tecnológico y de Estudios Superiores de Occidente  
+**Institución:** ITESO. Instituto Tecnológico y de Estudios Superiores de Occidente  
 **Profesor:** Rodolfo Slay Ramos  
 **Equipo:**
 - Mónica Valeria Jauregui Rodríguez
@@ -36,7 +36,7 @@ $$EL = PD \times LGD \times EAD$$
 ├── 📄 README.md                              ← Este archivo
 ├── 📄 Modelo_de_crédito_proyecto_2.pdf        ← Reporte final (PDF)
 ├── 📓 modelo_riesgo_crediticio.ipynb          ← Notebook principal con todo el pipeline
-├── 📊 AAlendingclub_credit_card-limpio.csv    ← Dataset preprocesado (249,343 filas × 40 columnas)
+├── 📊 AAlendingclub_credit_card-limpio.csv    ← Dataset preprocesado (249,343 filas × 40 columnas; recortado a 95,000 por limitaciones de Github)
 │
 ├── 📈 Gráficos generados/
 │   ├── chart1_rate_vs_default.png             ← Tasa de interés vs tasa de default por grade
